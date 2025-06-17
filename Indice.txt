@@ -32,4 +32,115 @@ populares:
 
 5. Controle de Versão (Git e GitHub/GitLab/Bitbucket)
 
-* O que aprender: Comandos básicos
+* O que aprender: Comandos básicos (add, commit, push, pull, clone, branch, merge), fluxos de trabalho (Git Flow, GitHub Flow).
+
+6. Gerenciadores de Pacotes (NPM/Yarn)
+
+* O que aprender: npm install, npm start, package.json.
+
+7. Framework/Biblioteca JavaScript (Escolha um):
+
+* Opções (mais populares):
+
+  * React: Componentes, JSX, Virtual DOM, Hooks, Context API.
+
+  * Vue.js: Reatividade, componentes, diretivas.
+
+  * Angular: TypeScript, Módulos, Componentes, Services, RxJS.
+
+8. State Management (React/Vue/Angular):
+
+* React: Redux (Redux Toolkit), Zustand, Recoil.
+
+* Vue: Vuex, Pinia.
+
+* Angular: NgRx
+
+9. Pré-Processadores CSS 
+
+Opções: Sass/SCSS, Less.
+
+10. Testes no Frontend.
+
+* O que aprender: Testes unitários (Jest, Vitest), testes de integração (React Testing Library, Cypress, Playwright).
+
+## Lógica de Servidor e Dados ##
+
+11. Linguagem Backend (escolha uma):
+
+* Opções (mais populares para fullstack JS/TS):
+
+  * Node.js (Express.js/NestJS): Permite usar JavaScript/TypeScript no backend, o que é uma grande vantagem para fullstackers. Grande ecossistema, alta performance.
+
+  * Python (Django/Flask): Popular para web development, data science, machine learning.
+
+  * PHP (Laravel/Symfony): Ainda muito utilizado, grande comunidade.
+
+  * Ruby (Ruby on Rails): Produtividade, convenção sobre configuração.
+
+  * Java (Spring Boot): Robustez, escalabilidade para grandes aplicações corporativas.
+
+* O que aprender: Sintaxe, estrutura de dados, manipulação de arquivos, HTTP methods, APIs RESTful.
+
+12. Bancos de Dados:
+
+* Tipos e Opções:
+
+  * Relacionais (SQL): MySQL, PostgreSQL, SQLite, SQL Server.
+
+    * O que aprender: SQL (DDL, DML), modelagem de dados, normalização, joins, índices.
+
+  * Não Relacionais (NoSQL): MongoDB (Documentos), Redis (Key-Value), Cassandra (Colunas), Neo4j (Grafos).
+
+    O que aprender: Conceitos básicos, quando usar.
+
+13. ORMs/ODMs (Mapeamento Objeto-Relacional/Objeto-Documento)
+
+* Opções:
+
+  * Node.js: Sequelize (SQL), Mongoose (MongoDB), Prisma.
+
+  * Python: SQLAlchemy, Django ORM.
+
+  * PHP: Eloquent (Laravel).
+
+  * Java: Hibernate.
+
+14. Autenticação e Autorização:
+
+* O que aprender: JWT (JSON Web Tokens), OAuth, sessões, cookies, hashing de senhas.
+
+15. APIs RESTful:
+
+* O que aprender: Métodos HTTP (GET, POST, PUT, DELETE), códigos de status, design de URLs, versionamento de API.
+
+16. Testes no Backend:
+
+* O que aprender: Testes unitários, testes de integração (Supertest para Node.js, Postman/Insomnia para testar endpoints).
+
+### Deploy e DevOps Básico ###
+
+17. Servidores Web (Básico):
+
+* O que aprender: Nginx, Apache (Conceitos básicos).
+
+18. Cloud Computing (Básico):
+
+* Plataformas: Heroku, Vercel/Netlify (frontend), AWS, Google Cloud, Azure.
+
+* O que aprender: Conceitos de IaaS, PaaS, SaaS, deploing uma aplicação simples.
+
+19. Docker
+
+* O que aprender: Dockerfile, Docker Compose, Imagens, Contêineres.
+
+## Conceitos e Ferramentas Adicionais ##
+
+# GraphQL: Alternativa ao REST para APIs.
+# WebSockets: Comunicação em tempo real.
+# Cachê: Redis, Memcached para melhorar performance.
+# Mensageria: RabbitMQ, Kafka.
+# CI/CD (Integração Contínua/Entrega Contínua): GitHub Actions,
+# Metodologias Ágeis: Scrum, Kanban.
+# Princípios SOLID: Boas práticas de programação.
+# Segurança da Informação: OWASP Top 10
