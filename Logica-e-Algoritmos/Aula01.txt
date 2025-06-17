@@ -1,0 +1,10 @@
+Para iniciar seus estudos em Lógica de Programação e Algoritmos, é essencial entender que 
+eles são a base para qualquer linguagem de programação. A lógica é a forma como você 
+organiza o pensamento para resolver um problema, e os algoritmos são os passos detalhados 
+para executar essa solução.
+
+-----------------------------------------------------------------------------------------
+
+Conceitos Fundamentais
+
+* Variáveis: Espaços na memória para armazenar dados (números, textos, etc.).
